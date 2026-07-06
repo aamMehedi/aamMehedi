@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫About Me:
 {<br>"Position" : "Student",<br>"Currently" : "Developing skill on Full stacks",<br>"Interest" : "AI agent Orchestration",<br>"Aim" : "Startup" <br>}
 
 
