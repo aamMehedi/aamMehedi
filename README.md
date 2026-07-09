@@ -1,5 +1,5 @@
 # 💫 About Me :
-Hey everyone! My name is Mehedi and i am a wannabe Ai Engineer.My future aim is to through a Successful startup which includes integrating AI in existing Product and Techonology
+Hey everyone!My name is Mehedi and i am a wannabe Ai Engineer.My future aim is to through a Successful startup which includes integrating AI in existing Product and Techonology
 
 
 # 💻 Tech Stack:
