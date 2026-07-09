@@ -1,5 +1,5 @@
 # 💫 About Me :
-{<br>"Position" : "Student",<br>"Currently" : "Developing skill on Full stacks",<br>"Interest" : "AI agent Orchestration",<br>"Aim" : "Startup" <br>}
+Hey everyone! My name is Mehedi and i am a wannabe Ai Engineer.My future aim is to through a Successful startup which includes integrating AI in existing Product and Techonology
 
 
 # 💻 Tech Stack:
