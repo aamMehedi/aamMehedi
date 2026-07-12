@@ -1,4 +1,4 @@
-# 💫 About Me :
+# Hey Everyone  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmN6M3d0dmw5eTR3Z2xweGF4azJ4dzRhbG94OGw0OHVpYzRhcXlzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yRJduMWhlCYiQ/giphy.gif" width="30" height="30" style="vertical-align: middle;"> how do you do?
 Hey everyone ! My name is Mehedi and i am a wannabe Ai Engineer . My future aim is to through a Successful startup which includes integrating AI in existing Product and Techonology.
 
 
