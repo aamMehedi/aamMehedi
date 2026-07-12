@@ -1,6 +1,8 @@
 # 💫 About Me :
 Hey everyone ! My name is Mehedi and i am a wannabe Ai Engineer . My future aim is to through a Successful startup which includes integrating AI in existing Product and Techonology.
-But more than anything,i love Nature and peace
+
+
+**But more than anything,i love Nature and peace**
 
 
 ![Ashitaka](https://i.pinimg.com/originals/2e/ee/b9/2eeeb90051f6fe822dd7d5419670ff70.gif)
