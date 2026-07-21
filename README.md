@@ -1,4 +1,4 @@
-> ## Hey Everyone <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydDhscm5vaWZ4OXFwY2c0MXFodjJxNjR6bjdpdHAzamxvaHVxcmExNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LY8yDak6Tngb6FfPrt/giphy.gif" width="60" height="60" style="vertical-align: middle;"> How do you do?
+> ## Hey Everyone  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydDhscm5vaWZ4OXFwY2c0MXFodjJxNjR6bjdpdHAzamxvaHVxcmExNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LY8yDak6Tngb6FfPrt/giphy.gif" width="60" height="60" style="vertical-align: middle;">  How do you do?
 My name is Mehedi and i am a wannabe Ai Engineer . My future aim is to throw a Successful startup which includes integrating AI in existing Product and Techonologies.<b>
 **But more than anything,i love Nature and peace**
 
